@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+    
+    {% include sidebar.html %}
+
+    <nav>
+      <a href="{{ site.baseurl }}/">English</a> |
+      <a href="{{ site.baseurl }}/index.zh.html">中文</a>
+    </nav>
+
+
+    <div class="content container">
+      {{ content }}
+    </div>
+
+  </body>
+</html>
