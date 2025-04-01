@@ -6,23 +6,21 @@ layout: default
 title: Home
 ---
 
-# Teaching Portfolio
+# Introduction
 
-## Zhao Lu
+I am an international technology executive and Silicon Valley veteran with extensive experience growing and managing large, distributed teams across the USA, Switzerland, Germany, and Brazil. I have held prominent roles such as Global CIO, CTO, and VP of Technology in various technology companies. My professional life has provided me with opportunities to gain deep understanding in Artificial Intelligence, Big Data, distributed systems, virtualization, algorithms, databases, mobile, and web technologies. I am passionate about education and have taught courses in machine learning, distributed systems, programming languages and data structures and databases. I have developed mobile applications (iOS/Android).  Recently I have dabbed into Huawei’s Hongmeng ArkTS. I am also fluent in English and German (besides my native Chinese).
 
-Zhao Lu is an accomplished international technology executive and Silicon Valley veteran with extensive experience growing and managing large, distributed teams across the USA, Switzerland, Germany, and Brazil. He has held prominent roles such as Global CIO, CTO, and VP of Technology. With deep expertise in Artificial Intelligence, Big Data, distributed systems, virtualization, algorithms, databases, mobile, and web technologies, Zhao remains hands-on, having taught courses in machine learning, Python, Ruby, Rails, and mobile device programming, including Huawei’s Hongmeng ArkTS. A passionate technologist, he is also fluent in English and German.
+I begin my academic journey at Tsinghua University in Beijing before transferring as an undergraduate to the University of Arizona, where he pursued his passion for Physics under a renowned physicist. He earned a Bachelor’s degree in Physics with a minor in Mathematics, followed by a Master’s degree in Management Information Systems.
 
-Zhao began his academic journey at Tsinghua University before transferring as an undergraduate to the University of Arizona, where he pursued his passion for Physics under a renowned physicist. He earned a Bachelor’s degree in Physics with a minor in Mathematics, followed by a Master’s degree in Management Information Systems.
+I hold five patents in the fields of storage systems and telephony.
 
-Zhao holds five patents in the fields of storage systems and telephony, reflecting his innovative contributions to technology.
+## 简介
 
-## 吕钊简介
+我是⼀位国际化的技术管理者，在硅⾕拥有多年的经验，擅⻓在美国、瑞⼠、德国和巴⻄等地组建和管理⼤规模的分布式团队。我曾担任多家科技公司的全球CIO、CTO和技术副总裁等重要职务，积累了丰富的管理和技术经验。我的职业⽣涯让我对⼈⼯智能、⼤数据、分布式系统、虚拟化、算法、数据库、移动端和⽹络技术等领域有了深刻的理解。同时，我对教育充满热情，曾教授过机器学习、分布式系统、编程语⾔、数据结构和数据库等课程。此外，我也曾开发iOS和Android移动应⽤，最近开始接触华为的鸿蒙ArkTS技术。我精通英⽂和德⽂，并以中⽂为⺟语。
 
-吕钊是⼀位国际科技⾼管和硅⾕资深⼈⼠，拥有在美国、瑞⼠、德国和巴⻄等地发展和管理的丰 富经验，曾担任全球⾸席信息官（CIO）、⾸席技术官（CTO）和技术副总裁等重要职位。他在 ⼈⼯智能、⼤数据、分布式系统、虚拟化、算法、数据库、移动和⽹络技术领域拥有深厚的技术 专⻓。吕钊注重实践，曾教授机器学习、Python、Ruby、Rails以及移动设备编程课程，包括华 为鸿蒙ArkTS。作为⼀名充满热情的技术专家，他还精通英语和德语。
+我的学术之旅始于北京清华⼤学，随后转学至美国亚利桑那⼤学，在著名物理学家的指导下深⼊研究物理学。我获得了物理学本科学位，并辅修数学，随后取得了管理信息系统硕⼠学位。
 
-吕钊最初在清华⼤学就读本科，后转学⾄亚利桑那⼤学，在⼀位著名物理学家的指导下追逐他对 物理学的热情。他获得了物理学学⼠学位，辅修数学，随后⼜取得了管理信息系统硕⼠学位。
-
-吕钊在存储系统和电话通信领域拥有五项专利，彰显了他在技术创新⽅⾯的卓越贡献。
+此外，我在存储系统和通信技术领域拥有五项专利。
 
 ## 覆盖⽅⾯ 
 
