@@ -57,3 +57,4 @@ I hold five patents in the fields of storage systems and telephony.
 - **Cardiff University**: 
   - CM6125: Database Systems
   - CM6123: Software Development Skills (School of Computer Science and Informatics)
+- **NTU Singapore**: AB0403 Decision Making with Programming & Analytics
