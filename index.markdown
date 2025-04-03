@@ -53,7 +53,7 @@ I hold five patents in the fields of storage systems and telephony.
   - INFS1701: Introduction to Networking and Security 
   - INFS1603: Introduction to Business Databases
   - ADAD9113: Communication Skills for Creative Disciplines
-  **University of Queensland**: CSSE7030 Intro to Programming (Computer Science)
+- **University of Queensland**: CSSE7030 Intro to Programming (Computer Science)
 - **Cardiff University**: 
   - CM6125: Database Systems
   - CM6123: Software Development Skills (School of Computer Science and Informatics)
