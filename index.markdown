@@ -37,6 +37,7 @@ I hold five patents in the fields of storage systems and telephony.
 
 ### University Courses
 
+- **John Hopkins University**: Business Analytics & Artificial Intelligence
 - **University of Birmingham**: Artificial Intelligence
 - **Macquarie University**: COMP2200/COMP6200: Data Science
 - **University of Auckland**: STATS 220: Data Technologies (R)
@@ -59,4 +60,4 @@ I hold five patents in the fields of storage systems and telephony.
   - CM6123: Software Development Skills (School of Computer Science and Informatics)
 - **NTU Singapore**: AB0403 Decision Making with Programming & Analytics
 - **Queen Mary University of London**: 
-  - Undergradute Final Project: School of EE & CS
+  - Undergradute Final Project: School of Electronic Engineering & Computer Science
